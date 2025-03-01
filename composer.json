@@ -1,5 +1,5 @@
 {
-    "name": "asantibanez/livewire-charts",
+    "name": "nyanumba-codes/livewire-charts",
     "description": "Livewire Charts",
     "keywords": [
         "asantibanez",
@@ -13,6 +13,11 @@
             "name": "Andrés Santibáñez",
             "email": "santibanez.andres@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Steve Nyanumba",
+            "email": "reach@stevenyanumba.com",
+            "role": "Contributor"
         }
     ],
     "require": {
