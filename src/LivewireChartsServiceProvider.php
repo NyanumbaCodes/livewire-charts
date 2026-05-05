@@ -31,7 +31,7 @@ class LivewireChartsServiceProvider extends ServiceProvider
 
     public function register()
     {
-        $this->app->bind('livewirecharts', LivewireCharts::class);
+        $this->app->singleton('livewirecharts', LivewireCharts::class);
     }
 
     private function registerCommands()
